@@ -1,0 +1,10 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+data|stem|0d72455f43c2169b|471f4c50e8eb2dc6|2c530c1562a7fbd1|33550471||t20292.0453241374s|s448b|448|rds|local|vector|||0.001||
+data_summary|stem|f6b52ee20532f8fa|2e4ea7419356bab6|7b03d691ec04b9fa|-651121042||t20292.0453248535s|s88b|88|rds|local|vector|||0.001||
+summarize_data|function|dc619228d9319364
+supraclavicular_data|stem|6317631a846ff4b6|134ef9559300bed3|2c530c1562a7fbd1|-614002655||t20292.0525162289s|s2935b|2935|rds|local|vector|||0.004||
+plot_rest|stem|1d47feb84585e2b4|68f930da3de3bd1f|4715b33fa9253660|879290494||t20292.0525220943s|s44b|44|rds|local|vector|||0.457||
+summary_rest|stem|cfea7fa01ce23b3d|f552fd61c0dfd0c0|87018153fc38b58b|-1923738889||t20292.0537017618s|s173b|173|rds|local|vector|||0.019||
+vps_rest_stats|stem|352374d946b6da59|6b4195bb2799d83f|bfede478f84898b3|-1370955264||t20292.0591913491s|s121b|121|rds|local|vector|||0.004||
+summary_stats|function|2ddf0b40e302dc37
+summarize_median_iqr|function|aa166de90010be1c
